@@ -2,8 +2,11 @@
 <html>
 <head>
 	<meta charset="utf-8">
-    <title>网站系统后台登录页面</title>
+    <title>小妹妹网站系统后台登录页面</title>
 	<link rel="stylesheet" type="text/css" href="login/css/style.css" />   
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5660349373091698"
+     crossorigin="anonymous"></script>
+	
 </head>
 <body>
 <?php

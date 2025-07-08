@@ -49,7 +49,7 @@ if(!empty($_POST['userName'])&&!empty($_POST['passWord'])){
 			
             <div class="footpage">
 			<p id="siteCopyRight" style="color:#fff;font-size:15px;text-align:center;">请正确输入密码或用户名！</p>
-			<span>Copyright ?</span>2023 － 智云影音</div>
+			<span>Copyright ?</span>2025 － ITPROSEC XMM</div>
         </div>
     </div>
 	

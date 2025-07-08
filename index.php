@@ -43,6 +43,9 @@ $row[11]='wxid_45gjwp2wijrl22';
 	<script src="static/js/jquery.js"></script>
 	<script src="static/js/clipboard.min.js"></script>  
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5660349373091698"
+     crossorigin="anonymous"></script>
+
 	<link rel="stylesheet" href="static/css/syystyle.css">
 <style type="text/css">
 .sstips{color: #fff;}

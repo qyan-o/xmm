@@ -37,7 +37,7 @@ $row[11]='wxid_45gjwp2wijrl22';
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title><?php echo $row[0]; ?></title>
     <meta name="keywords" content="<?php echo $row[1]; ?>" />
-    <meta name="description" content="<?php echo $row[1]; ?>，程序更新地址https://zhiyun66.github.io/htm/index.html" />
+    <meta name="description" content="<?php echo $row[1]; ?>，程序更新地址https://github.com/51net/xmm" />
 	<script type="text/javascript" src="static/js/jquery-1.8.3.min.js"></script>
 	<script src="static/js/jquery.min.js" ></script> 	
 	<script src="static/js/jquery.js"></script>

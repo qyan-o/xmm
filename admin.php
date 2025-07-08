@@ -44,7 +44,11 @@ if(!empty($_POST['name'])){
 <html>
 <head>
     <meta charset="UTF-8"/>
-    <title>后台管理</title>
+    <title>小妹妹后台管理</title>
+	
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5660349373091698"
+     crossorigin="anonymous"></script>
+	
     <link rel="stylesheet" type="text/css" href="static/css/common.css"/>
     <link rel="stylesheet" type="text/css" href="static/css/main.css"/>
 </head>

@@ -188,7 +188,7 @@ body {background:#000;}
 	</script>
 
  	<script>
-	setTimeout(showzhongjian,30000);
+	setTimeout(showzhongjian,90000);
 	function hide(){
 	  document.getElementById('BDBridgeInviteWrap').style.display = 'none';
 	  var audio=document.getElementById('chatAudio');
@@ -199,7 +199,7 @@ body {background:#000;}
 	function showzhongjian() 
 	{ 
 	  document.getElementById('BDBridgeInviteWrap').style.display ='block';
-	  setTimeout(showzhongjian,30000);
+	  setTimeout(showzhongjian,90000);
 	} 
 	</script>
 
